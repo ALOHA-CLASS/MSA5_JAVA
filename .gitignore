@@ -1,6 +1,13 @@
-# Compiled class file
+#
 *.zip
+#
+*.project
+/*.project
+
+# Compiled class file
 *.class
+/*.class
+
 
 # Log file
 *.log
