@@ -3,7 +3,7 @@
 
 
 ### 강의 다시보기
-<a href="https://www.youtube.com/watch?v=7rKNpkdNnkM&list=PL4C2AmBC9jOaU6S1-8yjP7RDk-I1OJ6uU" target="_blank">유튜브 동영상 (강의 다시보기)</a>
+<a href="https://www.youtube.com/watch?v=MJur5jdtMpc&list=PL4C2AmBC9jOaQx101tfsOzzxFX6uyYmpF" target="_blank">유튜브 동영상 (강의 다시보기)</a>
 
 
 ## 학습자료
